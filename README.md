@@ -57,7 +57,3 @@ Hệ thống giúp:
 - Nền tảng IoT: **Blynk**
 - Giao tiếp: **WiFi**
 - Môi trường phát triển: **Arduino IDE**
-
----
-
-## 📂 Cấu trúc thư mục
